@@ -1,2 +1,2 @@
-# ajiahub.github.io
-ajiahub page
+# skeleton
+ajiahub for up
