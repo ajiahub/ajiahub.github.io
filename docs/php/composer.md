@@ -1,3 +1,5 @@
+# composer
+
 ## Getting Started
 
 composer安装：https://packagist.org/
@@ -40,3 +42,4 @@ composer安装：https://packagist.org/
 reference:
 > composer 中文文档：https://learnku.com/docs/composer/2018  
 > LX2 PHP 扩展包实战教程：https://learnku.com/courses/creating-package
+> 华为镜像：https://www.huaweicloud.com/special/php-jingxiang.html
