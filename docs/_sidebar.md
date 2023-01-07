@@ -7,8 +7,7 @@
 
 * PHP
 
-  * [版本计划](zh-cn/release-planning.md)
-  * [版本说明](zh-cn/versions.md)
+  * [hyperf](/php/hyperf.md)
   * [composer](/php/composer.md)
 
 * NGINX
